@@ -1,0 +1,4 @@
+d:\_developer\workspace\lesson\PLiquibase>d:\_developer\mvn\bin\mvn liquibase:rollback -Dliquibase.rollbackTag=v5
+
+C:\Users\sergey_prig>cmd.exe /C "d:\_developer\mvn\bin\mvn.cmd -f d:\_developer\
+workspace\PLiquibase\pom.xml install -Dliquibase.tag=v5 && exit %%ERRORLEVEL%%"

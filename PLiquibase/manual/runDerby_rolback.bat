@@ -1,0 +1,1 @@
+liquibase --defaultsFile=derby.properties rollback v2

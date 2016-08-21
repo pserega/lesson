@@ -1,0 +1,1 @@
+connect 'jdbc:derby:directory:c:/Program Files (x86)/Java/jdk1.8.0_74/liquibase-3.5.1/derby/exampledb;';

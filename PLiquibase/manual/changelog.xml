@@ -5,8 +5,7 @@
         xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd
         http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd">
     
-<include file="liquibase/features/store.sql"/>
-<include file="liquibase/features/insert.sql"/>
-<include file="liquibase/features/package.sql"/>
+<include file="c:/Program Files (x86)/Java/jdk1.8.0_74/liquibase-3.5.1/changelog/com/example/features/store.sql"/>
+<include file="c:/Program Files (x86)/Java/jdk1.8.0_74/liquibase-3.5.1/changelog/com/example/features/insert.sql"/>
 
-</databaseChangeLog>
+   </databaseChangeLog>
