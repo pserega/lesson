@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="*TEST.PLUS_v5*" tests="1" failures="1" time="0" timestamp="2016-08-24T01:30:44.406000+03:00">
+    <testcase name="TEST.PLUS:Test Implementation 1:2_RUNTEST" classname="TEST.PLUS" time="0">
+      <error message="TEST.PLUS:Test Implementation 1:2_RUNTEST failed">Test Implementation 1 failed: Expected: [3], Received: [2]
+----------------------------------------
+A: Value: [1]
+B: Value: [1]</error>
+    </testcase>
+  </testsuite>
+</testsuites>
+
