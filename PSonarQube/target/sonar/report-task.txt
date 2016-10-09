@@ -1,0 +1,5 @@
+projectKey=PSonarQube:PSonarQube
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/PSonarQube:PSonarQube
+ceTaskId=AVepWUmAdcWx-uX4h36_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVepWUmAdcWx-uX4h36_
