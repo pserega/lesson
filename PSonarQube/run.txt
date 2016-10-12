@@ -1,5 +1,1 @@
-mvn -Dsonar.host.url=http://localhost:9000
--Dsonar.analysis.mode=publish
-clean
-install
-sonar:sonar
+mvn -Dsonar.host.url=http://localhost:9000 -Dsonar.analysis.mode=publish clean install sonar:sonar
